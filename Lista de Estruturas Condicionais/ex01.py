@@ -7,3 +7,5 @@ if idadee_do_usuario >= 18:
         print('maior de idade')
 elif idadee_do_usuario <= 18:
     print('menor de idade')
+
+print('oi')
